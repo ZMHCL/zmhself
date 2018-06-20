@@ -1,0 +1,2 @@
+# zmhself
+Study notes
