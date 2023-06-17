@@ -1,0 +1,25 @@
+一些Rust学习资料推荐
+入门类项目：
+rustbase：一个16岁小孩开发的K-V noSQL数据库，可以从基本的骨架学起，这个组织里面包括了底层存储dustdata，rustbase k-v server，以及rustbase-cli用来连接服务器的client，还有rustbase-rs客户端，使用rust客户端连接server。：https://github.com/rustbase
+所有汇总（后续可以按类别分类）
+awesome rust：https://github.com/rust-unofficial/awesome-rust
+使用Rust实现的一些算法与数据结构：https://github.com/TheAlgorithms/Rust#all-algorithms-implemented-in-rust
+RustBook：https://github.com/QMHTMY/RustBook
+K-V store：https://github.com/cberner/redb
+Rust设计模式：https://rust-unofficial.github.io/patterns/
+Rust过程宏学习Repo：https://github.com/dtolnay/proc-macro-workshop
+Rust数据结构与基础算法：https://www.hackertouch.com/rust-data-structures-and-algorithms.html
+rCore 使用Rust写的操作系统，端到端：http://rcore-os.cn/rCore-Tutorial-Book-v3/
+写一个OS：https://os.phil-opp.com/zh-CN/
+数据库执行器的类型设计：（真的很强，目前在CMU读master）
+https://www.skyzh.dev/posts/articles/2022-01-22-rust-type-exercise-in-database-executors/
+https://www.skyzh.dev/posts/articles/2022-01-24-rust-type-exercise-in-database-executors-middle/
+https://www.skyzh.dev/posts/articles/2022-02-01-rust-type-exercise-in-database-executors-final/
+这是我个人写的一些练习，有待整理一下：https://github.com/Milittle/Rust-Learning
+RisingLight 是一个 Rust 语言编写的单机分析型（OLAP）数据库系统: 一步一步地实现自己的数据库：https://risinglightdb.github.io/risinglight-tutorial/
+https://github.com/sunface/rust-by-practice Rust本地练习
+Tour of Rust： https://tourofrust.com/TOC_en.html （带有playground运行）
+https://dhghomon.github.io/easy_rust/Chapter_3.html
+Rust learning 集合：https://github.com/ctjhoa/rust-learning
+Rust语言圣经： https://github.com/sunface/rust-course 加***
+https://github.com/datenlord/Xline 国内云数据库创业公司datenlord发布的K-V元数据管理服务，值得学习
